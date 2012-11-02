@@ -1,6 +1,0 @@
-category: Video
-requires: python python-gobject2.0 python-goocanvas python-gtk2.0 python-mlt python-pynotify python-xdg
-sdesc: "GTK+ non-linear video editor"
-ldesc: "OpenShot Video Editor is a free, open-source, non-linear video 
-editor based on the MLT multimedia framework. It can create and edit 
-videos and movies using many popular video, audio, and image formats."

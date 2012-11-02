@@ -1,5 +1,0 @@
-inherit distutils
-
-DESCRIPTION="GTK+ non-linear video editor using MLT"
-HOMEPAGE="http://www.openshotvideo.com/"
-SRC_URI="http://launchpad.net/openshot/${PV_MAJ_MIN}/${PV}/+download/${P}.tar.gz"
