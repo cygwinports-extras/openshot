@@ -2,7 +2,7 @@ inherit distutils
 
 NAME="openshot"
 VERSION=1.4.3
-RELEASE=1
+RELEASE=2
 CATEGORY="Video"
 SUMMARY="GTK+ non-linear video editor"
 DESCRIPTION="OpenShot Video Editor is a free, open-source, non-linear video
